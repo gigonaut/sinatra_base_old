@@ -1,0 +1,7 @@
+adapter: sqlite
+database: data/development.sqlite3
+# adapter: mysql
+# host: localhost
+# username: root
+# password: 
+# database: gigobase
